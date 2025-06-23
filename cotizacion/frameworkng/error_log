@@ -1,0 +1,40 @@
+[29-Nov-2024 16:40:22 UTC] PHP Warning:  include(./headerdash.php): failed to open stream: No such file or directory in /home/relianc1/activos.voolley.com/frameworkng/common.php on line 2
+[29-Nov-2024 16:40:22 UTC] PHP Warning:  include(./headerdash.php): failed to open stream: No such file or directory in /home/relianc1/activos.voolley.com/frameworkng/common.php on line 2
+[29-Nov-2024 16:40:22 UTC] PHP Warning:  include(): Failed opening './headerdash.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/activos.voolley.com/frameworkng/common.php on line 2
+[29-Nov-2024 16:40:22 UTC] PHP Warning:  include(./frameworkng/dashboard/dashboard.php): failed to open stream: No such file or directory in /home/relianc1/activos.voolley.com/frameworkng/common.php on line 3
+[29-Nov-2024 16:40:22 UTC] PHP Warning:  include(./frameworkng/dashboard/dashboard.php): failed to open stream: No such file or directory in /home/relianc1/activos.voolley.com/frameworkng/common.php on line 3
+[29-Nov-2024 16:40:22 UTC] PHP Warning:  include(): Failed opening './frameworkng/dashboard/dashboard.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/activos.voolley.com/frameworkng/common.php on line 3
+[29-Nov-2024 16:40:22 UTC] PHP Warning:  include(./frameworkng/inputs/classinput.php): failed to open stream: No such file or directory in /home/relianc1/activos.voolley.com/frameworkng/common.php on line 4
+[29-Nov-2024 16:40:22 UTC] PHP Warning:  include(./frameworkng/inputs/classinput.php): failed to open stream: No such file or directory in /home/relianc1/activos.voolley.com/frameworkng/common.php on line 4
+[29-Nov-2024 16:40:22 UTC] PHP Warning:  include(): Failed opening './frameworkng/inputs/classinput.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/activos.voolley.com/frameworkng/common.php on line 4
+[29-Nov-2024 16:40:22 UTC] PHP Warning:  include(./frameworkng/tablas/tablas.php): failed to open stream: No such file or directory in /home/relianc1/activos.voolley.com/frameworkng/common.php on line 5
+[29-Nov-2024 16:40:22 UTC] PHP Warning:  include(./frameworkng/tablas/tablas.php): failed to open stream: No such file or directory in /home/relianc1/activos.voolley.com/frameworkng/common.php on line 5
+[29-Nov-2024 16:40:22 UTC] PHP Warning:  include(): Failed opening './frameworkng/tablas/tablas.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/activos.voolley.com/frameworkng/common.php on line 5
+[29-Nov-2024 16:40:22 UTC] PHP Warning:  include(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/activos.voolley.com/frameworkng/common.php on line 6
+[29-Nov-2024 16:40:22 UTC] PHP Warning:  include(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/activos.voolley.com/frameworkng/common.php on line 6
+[29-Nov-2024 16:40:22 UTC] PHP Warning:  include(): Failed opening './frameworkng/db/conexionmysql.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/activos.voolley.com/frameworkng/common.php on line 6
+[29-Nov-2024 16:40:22 UTC] PHP Fatal error:  Uncaught Error: Class 'InputGenerator' not found in /home/relianc1/activos.voolley.com/frameworkng/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/relianc1/activos.voolley.com/frameworkng/index.php on line 4
+[30-Nov-2024 14:16:31 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/relianc1/bodexus.voolley.com/frameworkng/index.php on line 4
+[30-Nov-2024 14:16:31 UTC] PHP Warning:  include(https://bodexus.voolley.com/frameworkng/dashboard/dashboard.php): failed to open stream: no suitable wrapper could be found in /home/relianc1/bodexus.voolley.com/frameworkng/index.php on line 4
+[30-Nov-2024 14:16:31 UTC] PHP Warning:  include(): Failed opening 'https://bodexus.voolley.com/frameworkng/dashboard/dashboard.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/bodexus.voolley.com/frameworkng/index.php on line 4
+[30-Nov-2024 14:16:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Layout' not found in /home/relianc1/bodexus.voolley.com/frameworkng/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/relianc1/bodexus.voolley.com/frameworkng/index.php on line 25
+[30-Nov-2024 14:17:06 UTC] PHP Warning:  include(./frameworkng/dashboard/dashboard.php): failed to open stream: No such file or directory in /home/relianc1/bodexus.voolley.com/frameworkng/index.php on line 4
+[30-Nov-2024 14:17:06 UTC] PHP Warning:  include(./frameworkng/dashboard/dashboard.php): failed to open stream: No such file or directory in /home/relianc1/bodexus.voolley.com/frameworkng/index.php on line 4
+[30-Nov-2024 14:17:06 UTC] PHP Warning:  include(): Failed opening './frameworkng/dashboard/dashboard.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/bodexus.voolley.com/frameworkng/index.php on line 4
+[30-Nov-2024 14:17:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Layout' not found in /home/relianc1/bodexus.voolley.com/frameworkng/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/relianc1/bodexus.voolley.com/frameworkng/index.php on line 25
+[30-Nov-2024 14:17:09 UTC] PHP Warning:  include(./frameworkng/dashboard/dashboard.php): failed to open stream: No such file or directory in /home/relianc1/bodexus.voolley.com/frameworkng/index.php on line 4
+[30-Nov-2024 14:17:09 UTC] PHP Warning:  include(./frameworkng/dashboard/dashboard.php): failed to open stream: No such file or directory in /home/relianc1/bodexus.voolley.com/frameworkng/index.php on line 4
+[30-Nov-2024 14:17:09 UTC] PHP Warning:  include(): Failed opening './frameworkng/dashboard/dashboard.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/bodexus.voolley.com/frameworkng/index.php on line 4
+[30-Nov-2024 14:17:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Layout' not found in /home/relianc1/bodexus.voolley.com/frameworkng/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/relianc1/bodexus.voolley.com/frameworkng/index.php on line 25

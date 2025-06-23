@@ -1,0 +1,26 @@
+[12-Dec-2024 17:01:34 UTC] PHP Warning:  require(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/compras/guardar_compra.php on line 2
+[12-Dec-2024 17:01:34 UTC] PHP Warning:  require(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/compras/guardar_compra.php on line 2
+[12-Dec-2024 17:01:34 UTC] PHP Fatal error:  require(): Failed opening required './frameworkng/db/conexionmysql.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/compras/guardar_compra.php on line 2
+[12-Dec-2024 17:02:15 UTC] PHP Notice:  Undefined index: usuario in /home/relianc1/test.voolley.com/compras/guardar_compra.php on line 9
+[12-Dec-2024 17:03:39 UTC] PHP Notice:  Undefined index: usuario in /home/relianc1/test.voolley.com/compras/guardar_compra.php on line 9
+[12-Dec-2024 17:06:14 UTC] PHP Notice:  Undefined index: usuario in /home/relianc1/test.voolley.com/compras/guardar_compra.php on line 9
+[12-Dec-2024 17:11:52 UTC] PHP Notice:  Undefined index: usuario in /home/relianc1/test.voolley.com/compras/guardar_compra.php on line 9
+[08-Jan-2025 15:35:38 UTC] PHP Warning:  require(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/compras/obtener.php on line 3
+[08-Jan-2025 15:35:38 UTC] PHP Warning:  require(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/compras/obtener.php on line 3
+[08-Jan-2025 15:35:38 UTC] PHP Fatal error:  require(): Failed opening required './frameworkng/db/conexionmysql.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/compras/obtener.php on line 3
+[08-Jan-2025 19:50:12 UTC] PHP Notice:  Undefined index: fecha in /home/relianc1/test.voolley.com/compras/guardar_compra.php on line 11
+[15-Jan-2025 22:45:58 UTC] PHP Notice:  Only variables should be passed by reference in /home/relianc1/test.voolley.com/compras/guardar_compra.php on line 31
+[15-Jan-2025 22:47:21 UTC] PHP Notice:  Only variables should be passed by reference in /home/relianc1/test.voolley.com/compras/guardar_compra.php on line 31
+[15-Jan-2025 23:57:43 UTC] PHP Notice:  Only variables should be passed by reference in /home/relianc1/test.voolley.com/compras/guardar_compra.php on line 36
+[16-Jan-2025 14:50:36 UTC] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/relianc1/test.voolley.com/compras/guardar_compra.php on line 2
+[16-Jan-2025 16:12:49 UTC] PHP Notice:  Undefined index: productosOrden in /home/relianc1/test.voolley.com/compras/guardar_compra.php on line 27
+[16-Jan-2025 16:12:57 UTC] PHP Notice:  Undefined index: productosOrden in /home/relianc1/test.voolley.com/compras/guardar_compra.php on line 27
+[16-Jan-2025 16:20:16 UTC] PHP Notice:  Undefined index: productosOrden in /home/relianc1/test.voolley.com/compras/guardar_compra.php on line 27
+[17-Jan-2025 14:45:56 UTC] PHP Notice:  Array to string conversion in /home/relianc1/test.voolley.com/compras/guardar_compra.php on line 53
+[17-Jan-2025 18:38:16 UTC] PHP Notice:  Undefined index: precio in /home/relianc1/test.voolley.com/compras/guardar_compra.php on line 66
+[17-Jan-2025 18:40:07 UTC] PHP Notice:  Undefined index: precio in /home/relianc1/test.voolley.com/compras/guardar_compra.php on line 66
+[17-Jan-2025 18:42:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/relianc1/test.voolley.com/compras/guardar_compra.php on line 62
+[17-Jan-2025 18:52:41 UTC] PHP Notice:  Undefined index: precio in /home/relianc1/test.voolley.com/compras/guardar_compra.php on line 67
+[17-Jan-2025 18:53:38 UTC] PHP Notice:  Undefined index: precio in /home/relianc1/test.voolley.com/compras/guardar_compra.php on line 67
+[21-Jan-2025 22:15:01 UTC] PHP Notice:  Undefined index: costo in /home/relianc1/test.voolley.com/ventas/obtener.php on line 45
+[21-Jan-2025 22:15:01 UTC] PHP Notice:  Undefined index: costo in /home/relianc1/test.voolley.com/ventas/obtener.php on line 45

@@ -1,0 +1,82 @@
+[22-Jan-2025 18:36:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/relianc1/voolley.com/cotizacion/cotizaciones/guardar_compra.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/relianc1/voolley.com/cotizacion/cotizaciones/guardar_compra.php on line 43
+[22-Jan-2025 18:37:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/relianc1/voolley.com/cotizacion/cotizaciones/guardar_compra.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/relianc1/voolley.com/cotizacion/cotizaciones/guardar_compra.php on line 43
+[22-Jan-2025 18:37:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/relianc1/voolley.com/cotizacion/cotizaciones/guardar_compra.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/relianc1/voolley.com/cotizacion/cotizaciones/guardar_compra.php on line 43
+[24-Jan-2025 15:20:20 UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php on line 2
+[24-Jan-2025 15:20:20 UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php on line 2
+[24-Jan-2025 15:20:20 UTC] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php on line 2
+[24-Jan-2025 09:28:18 America/Monterrey] PHP Notice:  Undefined index: noCotizacion in /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php on line 33
+[24-Jan-2025 09:28:18 America/Monterrey] PHP Notice:  Undefined index: fecha in /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php on line 34
+[24-Jan-2025 09:28:18 America/Monterrey] PHP Notice:  Undefined index: comentarios in /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php on line 35
+[24-Jan-2025 09:29:49 America/Monterrey] PHP Notice:  Undefined index: noCotizacion in /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php on line 33
+[24-Jan-2025 09:29:49 America/Monterrey] PHP Notice:  Undefined index: fecha in /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php on line 34
+[24-Jan-2025 09:29:49 America/Monterrey] PHP Notice:  Undefined index: comentarios in /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php on line 35
+[24-Jan-2025 09:49:11 America/Monterrey] PHP Notice:  Undefined index: noCotizacion in /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php on line 33
+[24-Jan-2025 09:49:11 America/Monterrey] PHP Notice:  Undefined index: fecha in /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php on line 34
+[24-Jan-2025 09:49:11 America/Monterrey] PHP Notice:  Undefined index: comentarios in /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php on line 35
+[24-Jan-2025 09:50:44 America/Monterrey] PHP Notice:  Undefined index: noCotizacion in /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php on line 34
+[24-Jan-2025 09:50:44 America/Monterrey] PHP Notice:  Undefined index: fecha in /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php on line 35
+[24-Jan-2025 09:50:44 America/Monterrey] PHP Notice:  Undefined index: comentarios in /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php on line 36
+[24-Jan-2025 09:51:31 America/Monterrey] PHP Notice:  Undefined index: noCotizacion in /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php on line 34
+[24-Jan-2025 09:51:31 America/Monterrey] PHP Notice:  Undefined index: fecha in /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php on line 35
+[24-Jan-2025 09:51:31 America/Monterrey] PHP Notice:  Undefined index: comentarios in /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php on line 36
+[24-Jan-2025 09:51:33 America/Monterrey] PHP Notice:  Undefined index: noCotizacion in /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php on line 34
+[24-Jan-2025 09:51:33 America/Monterrey] PHP Notice:  Undefined index: fecha in /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php on line 35
+[24-Jan-2025 09:51:33 America/Monterrey] PHP Notice:  Undefined index: comentarios in /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php on line 36
+[24-Jan-2025 09:51:39 America/Monterrey] PHP Notice:  Undefined index: noCotizacion in /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php on line 34
+[24-Jan-2025 09:51:39 America/Monterrey] PHP Notice:  Undefined index: fecha in /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php on line 35
+[24-Jan-2025 09:51:39 America/Monterrey] PHP Notice:  Undefined index: comentarios in /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php on line 36
+[24-Jan-2025 09:54:04 America/Monterrey] PHP Notice:  Undefined variable: noCotizacion in /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php on line 90
+[24-Jan-2025 12:57:05 America/Monterrey] PHP Fatal error:  Uncaught PhpOffice\PhpWord\Exception\Exception: Can not clone row, template variable not found or variable contains markup. in /home/relianc1/voolley.com/cotizacion/vendor/phpoffice/phpword/src/PhpWord/TemplateProcessor.php:763
+Stack trace:
+#0 /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php(45): PhpOffice\PhpWord\TemplateProcessor->cloneRow('${producto}', 10)
+#1 {main}
+  thrown in /home/relianc1/voolley.com/cotizacion/vendor/phpoffice/phpword/src/PhpWord/TemplateProcessor.php on line 763
+[24-Jan-2025 12:58:01 America/Monterrey] PHP Fatal error:  Uncaught PhpOffice\PhpWord\Exception\Exception: Can not clone row, template variable not found or variable contains markup. in /home/relianc1/voolley.com/cotizacion/vendor/phpoffice/phpword/src/PhpWord/TemplateProcessor.php:763
+Stack trace:
+#0 /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php(45): PhpOffice\PhpWord\TemplateProcessor->cloneRow('${producto}', 10)
+#1 {main}
+  thrown in /home/relianc1/voolley.com/cotizacion/vendor/phpoffice/phpword/src/PhpWord/TemplateProcessor.php on line 763
+[24-Jan-2025 13:00:17 America/Monterrey] PHP Fatal error:  Uncaught PhpOffice\PhpWord\Exception\Exception: Can not clone row, template variable not found or variable contains markup. in /home/relianc1/voolley.com/cotizacion/vendor/phpoffice/phpword/src/PhpWord/TemplateProcessor.php:763
+Stack trace:
+#0 /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php(45): PhpOffice\PhpWord\TemplateProcessor->cloneRow('${producto}', 10)
+#1 {main}
+  thrown in /home/relianc1/voolley.com/cotizacion/vendor/phpoffice/phpword/src/PhpWord/TemplateProcessor.php on line 763
+[24-Jan-2025 13:01:39 America/Monterrey] PHP Fatal error:  Uncaught PhpOffice\PhpWord\Exception\Exception: Can not clone row, template variable not found or variable contains markup. in /home/relianc1/voolley.com/cotizacion/vendor/phpoffice/phpword/src/PhpWord/TemplateProcessor.php:763
+Stack trace:
+#0 /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php(45): PhpOffice\PhpWord\TemplateProcessor->cloneRow('${producto1}', 10)
+#1 {main}
+  thrown in /home/relianc1/voolley.com/cotizacion/vendor/phpoffice/phpword/src/PhpWord/TemplateProcessor.php on line 763
+[24-Jan-2025 13:02:06 America/Monterrey] PHP Fatal error:  Uncaught PhpOffice\PhpWord\Exception\Exception: Can not clone row, template variable not found or variable contains markup. in /home/relianc1/voolley.com/cotizacion/vendor/phpoffice/phpword/src/PhpWord/TemplateProcessor.php:763
+Stack trace:
+#0 /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php(45): PhpOffice\PhpWord\TemplateProcessor->cloneRow('${producto1}', 1)
+#1 {main}
+  thrown in /home/relianc1/voolley.com/cotizacion/vendor/phpoffice/phpword/src/PhpWord/TemplateProcessor.php on line 763
+[24-Jan-2025 13:02:53 America/Monterrey] PHP Fatal error:  Uncaught PhpOffice\PhpWord\Exception\Exception: Can not clone row, template variable not found or variable contains markup. in /home/relianc1/voolley.com/cotizacion/vendor/phpoffice/phpword/src/PhpWord/TemplateProcessor.php:763
+Stack trace:
+#0 /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php(45): PhpOffice\PhpWord\TemplateProcessor->cloneRow('${producto1}', 1)
+#1 {main}
+  thrown in /home/relianc1/voolley.com/cotizacion/vendor/phpoffice/phpword/src/PhpWord/TemplateProcessor.php on line 763
+[24-Jan-2025 13:02:58 America/Monterrey] PHP Fatal error:  Uncaught PhpOffice\PhpWord\Exception\Exception: Can not clone row, template variable not found or variable contains markup. in /home/relianc1/voolley.com/cotizacion/vendor/phpoffice/phpword/src/PhpWord/TemplateProcessor.php:763
+Stack trace:
+#0 /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php(45): PhpOffice\PhpWord\TemplateProcessor->cloneRow('${producto1}', 10)
+#1 {main}
+  thrown in /home/relianc1/voolley.com/cotizacion/vendor/phpoffice/phpword/src/PhpWord/TemplateProcessor.php on line 763
+[24-Jan-2025 13:05:33 America/Monterrey] PHP Fatal error:  Uncaught PhpOffice\PhpWord\Exception\Exception: Can not clone row, template variable not found or variable contains markup. in /home/relianc1/voolley.com/cotizacion/vendor/phpoffice/phpword/src/PhpWord/TemplateProcessor.php:763
+Stack trace:
+#0 /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php(45): PhpOffice\PhpWord\TemplateProcessor->cloneRow('${producto}', 10)
+#1 {main}
+  thrown in /home/relianc1/voolley.com/cotizacion/vendor/phpoffice/phpword/src/PhpWord/TemplateProcessor.php on line 763
+[24-Jan-2025 13:05:46 America/Monterrey] PHP Fatal error:  Uncaught PhpOffice\PhpWord\Exception\Exception: Can not clone row, template variable not found or variable contains markup. in /home/relianc1/voolley.com/cotizacion/vendor/phpoffice/phpword/src/PhpWord/TemplateProcessor.php:763
+Stack trace:
+#0 /home/relianc1/voolley.com/cotizacion/cotizaciones/generapdf.php(45): PhpOffice\PhpWord\TemplateProcessor->cloneRow('${producto}', 1)
+#1 {main}
+  thrown in /home/relianc1/voolley.com/cotizacion/vendor/phpoffice/phpword/src/PhpWord/TemplateProcessor.php on line 763

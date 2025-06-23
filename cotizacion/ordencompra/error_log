@@ -1,0 +1,18 @@
+[15-Jan-2025 16:39:21 UTC] PHP Warning:  require(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/ordencompra/ajax.php on line 2
+[15-Jan-2025 16:39:21 UTC] PHP Warning:  require(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/ordencompra/ajax.php on line 2
+[15-Jan-2025 16:39:21 UTC] PHP Fatal error:  require(): Failed opening required './frameworkng/db/conexionmysql.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/ordencompra/ajax.php on line 2
+[15-Jan-2025 16:41:32 UTC] PHP Warning:  require(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/ordencompra/ajax.php on line 2
+[15-Jan-2025 16:41:32 UTC] PHP Warning:  require(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/ordencompra/ajax.php on line 2
+[15-Jan-2025 16:41:32 UTC] PHP Fatal error:  require(): Failed opening required './frameworkng/db/conexionmysql.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/ordencompra/ajax.php on line 2
+[15-Jan-2025 16:42:44 UTC] PHP Warning:  require(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/ordencompra/ajax.php on line 2
+[15-Jan-2025 16:42:44 UTC] PHP Warning:  require(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/ordencompra/ajax.php on line 2
+[15-Jan-2025 16:42:44 UTC] PHP Fatal error:  require(): Failed opening required './frameworkng/db/conexionmysql.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/ordencompra/ajax.php on line 2
+[15-Jan-2025 16:44:38 UTC] PHP Warning:  require(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/ordencompra/ajax.php on line 2
+[15-Jan-2025 16:44:38 UTC] PHP Warning:  require(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/ordencompra/ajax.php on line 2
+[15-Jan-2025 16:44:38 UTC] PHP Fatal error:  require(): Failed opening required './frameworkng/db/conexionmysql.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/ordencompra/ajax.php on line 2
+[16-Jan-2025 15:26:03 UTC] PHP Notice:  Undefined index: codigo in /home/relianc1/test.voolley.com/ordencompra/guardar.php on line 48
+[16-Jan-2025 15:26:03 UTC] PHP Notice:  Undefined index: costo in /home/relianc1/test.voolley.com/ordencompra/guardar.php on line 51
+[16-Jan-2025 15:26:03 UTC] PHP Notice:  Undefined index: codigo in /home/relianc1/test.voolley.com/ordencompra/guardar.php on line 48
+[16-Jan-2025 15:26:03 UTC] PHP Notice:  Undefined index: costo in /home/relianc1/test.voolley.com/ordencompra/guardar.php on line 51
+[16-Jan-2025 15:26:03 UTC] PHP Notice:  Undefined index: codigo in /home/relianc1/test.voolley.com/ordencompra/guardar.php on line 48
+[16-Jan-2025 15:26:03 UTC] PHP Notice:  Undefined index: costo in /home/relianc1/test.voolley.com/ordencompra/guardar.php on line 51

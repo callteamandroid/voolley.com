@@ -1,0 +1,298 @@
+[21-Nov-2024 15:50:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:00:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:00:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:02:16 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/conexion.php on line 9
+[21-Nov-2024 16:02:19 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/conexion.php on line 9
+[21-Nov-2024 16:02:19 UTC] PHP Notice:  Undefined variable: link in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 41
+[21-Nov-2024 16:02:19 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 41
+[21-Nov-2024 16:02:19 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 84
+[21-Nov-2024 16:02:19 UTC] PHP Notice:  Undefined variable: link in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 88
+[21-Nov-2024 16:02:19 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 88
+[21-Nov-2024 16:02:26 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/conexion.php on line 9
+[21-Nov-2024 16:02:26 UTC] PHP Notice:  Undefined variable: link in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 41
+[21-Nov-2024 16:02:26 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 41
+[21-Nov-2024 16:02:26 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 84
+[21-Nov-2024 16:02:26 UTC] PHP Notice:  Undefined variable: link in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 88
+[21-Nov-2024 16:02:26 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 88
+[21-Nov-2024 16:02:29 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/conexion.php on line 9
+[21-Nov-2024 16:02:29 UTC] PHP Notice:  Undefined variable: link in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 41
+[21-Nov-2024 16:02:29 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 41
+[21-Nov-2024 16:02:29 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 84
+[21-Nov-2024 16:02:29 UTC] PHP Notice:  Undefined variable: link in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 88
+[21-Nov-2024 16:02:29 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 88
+[21-Nov-2024 16:02:41 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/conexion.php on line 9
+[21-Nov-2024 16:02:41 UTC] PHP Notice:  Undefined variable: link in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 41
+[21-Nov-2024 16:02:41 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 41
+[21-Nov-2024 16:02:41 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 84
+[21-Nov-2024 16:02:41 UTC] PHP Notice:  Undefined variable: link in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 88
+[21-Nov-2024 16:02:41 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 88
+[21-Nov-2024 16:04:59 UTC] PHP Warning:  require_once(../config.php): failed to open stream: No such file or directory in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 13
+[21-Nov-2024 16:04:59 UTC] PHP Fatal error:  require_once(): Failed opening required '../config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 13
+[21-Nov-2024 16:05:07 UTC] PHP Warning:  require_once(../config.php): failed to open stream: No such file or directory in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 13
+[21-Nov-2024 16:05:07 UTC] PHP Fatal error:  require_once(): Failed opening required '../config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 13
+[21-Nov-2024 16:05:09 UTC] PHP Warning:  require_once(../config.php): failed to open stream: No such file or directory in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 13
+[21-Nov-2024 16:05:09 UTC] PHP Fatal error:  require_once(): Failed opening required '../config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 13
+[21-Nov-2024 16:06:00 UTC] PHP Warning:  require_once(../config.php): failed to open stream: No such file or directory in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 13
+[21-Nov-2024 16:06:00 UTC] PHP Fatal error:  require_once(): Failed opening required '../config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 13
+[21-Nov-2024 16:06:46 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:07:03 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:09:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:09:36 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:09:37 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:11:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vega'@'svgt332.serverneubox.com.mx' (using password: YES) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:12:03 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vega'@'svgt332.serverneubox.com.mx' (using password: YES) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:12:40 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'https://svgt332.serverneubox.com.mx:2083/' (0) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:13:00 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'svgt332.serverneubox.com.mx:2083' (0) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:13:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vega'@'svgt332.serverneubox.com.mx' (using password: YES) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:16:09 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vega'@'svgt332.serverneubox.com.mx' (using password: YES) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:16:34 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'Vega'@'svgt332.serverneubox.com.mx' (using password: YES) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:21:18 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'relianc1_vega'@'65.99.252.179' to database 'relianc1_server2' in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:21:30 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'relianc1_vega'@'65.99.252.179' to database 'relianc1_server2' in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:22:17 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'relianc1_vega'@'65.99.252.179' to database 'relianc1_server2' in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:22:46 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'relianc1_vega'@'65.99.252.179' to database 'relianc1_server2' in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:42:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'relianc1_vega'@'65.99.252.179' to database 'relianc1_server2' in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:47:26 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'relianc1_vega'@'65.99.252.179' to database 'relianc1_server2' in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:47:38 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'relianc1_vega'@'65.99.252.179' to database 'relianc1_server2' in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:48:20 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '65.99.252.179:3306' (0) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:48:40 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'relianc1_vega'@'65.99.252.179' to database 'relianc1_server2' in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:50:14 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:50:37 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '127.0.0.1:3306' (0) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:50:38 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '127.0.0.1:3306' (0) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 16:51:17 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '127.0.0.1:3306' (0) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 17:19:29 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '127.0.0.1:3306' (0) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 17:20:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 17:20:45 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'svgt332.serverneubox.com.mx:2083' (0) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 17:21:05 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'relianc1_vega'@'localhost' to database 'relianc1_server2' in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 17:21:21 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '127.0.0.1:3306' (0) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 17:22:04 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'relianc1_vega'@'65.99.252.179' to database 'relianc1_server2' in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 17:22:33 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'svgt332.serverneubox.com.mx' (using password: NO) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 17:22:50 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'relianc1_vega'@'65.99.252.179' to database 'relianc1_server2' in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 17:28:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '65.99.252.179:3306' (0) in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 17:31:24 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'relianc1_vega'@'65.99.252.179' to database 'relianc1_server2' in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/config.php on line 10
+[21-Nov-2024 17:34:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 60
+[21-Nov-2024 19:15:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 60
+[22-Nov-2024 14:08:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 60
+[22-Nov-2024 14:15:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 60
+[22-Nov-2024 17:18:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/voolley.com/voolley1/codiad/workspace/activos/account/login.php on line 60
+[22-Nov-2024 23:08:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[23-Nov-2024 00:30:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[23-Nov-2024 00:30:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[23-Nov-2024 00:47:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[25-Nov-2024 02:00:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[25-Nov-2024 06:11:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[25-Nov-2024 14:09:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[25-Nov-2024 15:59:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[25-Nov-2024 16:40:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[25-Nov-2024 18:40:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[26-Nov-2024 14:08:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[26-Nov-2024 15:32:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[26-Nov-2024 15:35:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/relianc1/activos.voolley.com/account/save.php on line 10
+[26-Nov-2024 15:36:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[26-Nov-2024 15:37:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[26-Nov-2024 18:16:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[26-Nov-2024 18:24:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/relianc1/activos.voolley.com/account/save.php on line 10
+[26-Nov-2024 18:29:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[26-Nov-2024 21:57:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[27-Nov-2024 14:04:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[28-Nov-2024 15:01:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[28-Nov-2024 17:03:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[28-Nov-2024 17:04:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[28-Nov-2024 17:05:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[28-Nov-2024 17:36:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[28-Nov-2024 21:54:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[28-Nov-2024 23:42:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[29-Nov-2024 14:44:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[29-Nov-2024 15:11:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[29-Nov-2024 15:29:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[29-Nov-2024 15:46:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[29-Nov-2024 15:47:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[29-Nov-2024 15:48:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[29-Nov-2024 15:50:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[29-Nov-2024 15:50:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[29-Nov-2024 15:51:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[29-Nov-2024 16:00:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[29-Nov-2024 16:43:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[29-Nov-2024 16:53:04 UTC] PHP Notice:  Undefined index: username in /home/relianc1/activos.voolley.com/account/auth.php on line 3
+[29-Nov-2024 16:53:05 UTC] PHP Notice:  Undefined index: username in /home/relianc1/activos.voolley.com/account/index.php on line 4
+[29-Nov-2024 16:53:05 UTC] PHP Notice:  Undefined index: username in /home/relianc1/activos.voolley.com/account/index.php on line 21
+[29-Nov-2024 16:53:05 UTC] PHP Notice:  Undefined index: username in /home/relianc1/activos.voolley.com/account/index.php on line 249
+[30-Nov-2024 13:43:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[02-Dec-2024 14:14:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[02-Dec-2024 14:54:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[02-Dec-2024 15:28:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[02-Dec-2024 19:30:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[02-Dec-2024 21:09:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[02-Dec-2024 22:16:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[02-Dec-2024 22:19:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[02-Dec-2024 23:43:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[03-Dec-2024 14:05:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[03-Dec-2024 14:08:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[03-Dec-2024 15:14:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[03-Dec-2024 15:19:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[03-Dec-2024 16:14:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/activos.voolley.com/account/login.php on line 60
+[03-Dec-2024 18:05:11 UTC] PHP Warning:  include(../headerdashsub.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/account/index.php on line 1
+[03-Dec-2024 18:05:11 UTC] PHP Warning:  include(../headerdashsub.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/account/index.php on line 1
+[03-Dec-2024 18:05:11 UTC] PHP Warning:  include(): Failed opening '../headerdashsub.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/account/index.php on line 1
+[03-Dec-2024 18:05:11 UTC] PHP Notice:  Undefined index: username in /home/relianc1/test.voolley.com/account/auth.php on line 3
+[03-Dec-2024 18:05:11 UTC] PHP Notice:  Undefined index: username in /home/relianc1/test.voolley.com/account/index.php on line 4
+[03-Dec-2024 18:05:11 UTC] PHP Warning:  require(../conexion.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/account/index.php on line 20
+[03-Dec-2024 18:05:11 UTC] PHP Warning:  require(../conexion.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/account/index.php on line 20
+[03-Dec-2024 18:05:11 UTC] PHP Fatal error:  require(): Failed opening required '../conexion.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/account/index.php on line 20
+[03-Dec-2024 18:05:39 UTC] PHP Warning:  include(../headerlogin.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/account/login.php on line 1
+[03-Dec-2024 18:05:39 UTC] PHP Warning:  include(../headerlogin.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/account/login.php on line 1
+[03-Dec-2024 18:05:39 UTC] PHP Warning:  include(): Failed opening '../headerlogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/account/login.php on line 1
+[03-Dec-2024 18:05:39 UTC] PHP Warning:  include(../scriptslogin.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/account/login.php on line 146
+[03-Dec-2024 18:05:39 UTC] PHP Warning:  include(../scriptslogin.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/account/login.php on line 146
+[03-Dec-2024 18:05:39 UTC] PHP Warning:  include(): Failed opening '../scriptslogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/account/login.php on line 146
+[03-Dec-2024 18:06:24 UTC] PHP Warning:  include(../scriptslogin.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/account/login.php on line 146
+[03-Dec-2024 18:06:24 UTC] PHP Warning:  include(../scriptslogin.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/account/login.php on line 146
+[03-Dec-2024 18:06:24 UTC] PHP Warning:  include(): Failed opening '../scriptslogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/account/login.php on line 146
+[03-Dec-2024 18:06:28 UTC] PHP Warning:  include(../scriptslogin.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/account/login.php on line 146
+[03-Dec-2024 18:06:28 UTC] PHP Warning:  include(../scriptslogin.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/account/login.php on line 146
+[03-Dec-2024 18:06:28 UTC] PHP Warning:  include(): Failed opening '../scriptslogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/account/login.php on line 146
+[03-Dec-2024 18:11:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 61
+[06-Dec-2024 00:28:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 61
+[06-Dec-2024 00:32:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 4
+[06-Dec-2024 14:01:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 61
+[08-Dec-2024 02:30:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 61
+[08-Dec-2024 03:15:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 61
+[08-Dec-2024 04:13:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 61
+[09-Dec-2024 14:18:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 61
+[09-Dec-2024 21:58:36 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/relianc1/test.voolley.com/account/login.php on line 85
+[09-Dec-2024 21:58:46 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/relianc1/test.voolley.com/account/login.php on line 85
+[09-Dec-2024 21:58:52 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/relianc1/test.voolley.com/account/login.php on line 85
+[10-Dec-2024 15:53:22 UTC] PHP Notice:  Undefined index: $planta in /home/relianc1/test.voolley.com/account/save.php on line 6
+[10-Dec-2024 15:54:16 UTC] PHP Notice:  Undefined index: $planta in /home/relianc1/test.voolley.com/account/save.php on line 6
+[10-Dec-2024 15:56:54 UTC] PHP Notice:  Undefined index: $planta in /home/relianc1/test.voolley.com/account/save.php on line 6
+[10-Dec-2024 15:57:28 UTC] PHP Notice:  Undefined index: $planta in /home/relianc1/test.voolley.com/account/save.php on line 6
+[10-Dec-2024 15:59:30 UTC] PHP Notice:  Undefined index: $planta in /home/relianc1/test.voolley.com/account/save.php on line 6
+[10-Dec-2024 16:06:12 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/relianc1/test.voolley.com/account/login.php on line 85
+[10-Dec-2024 16:06:21 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/relianc1/test.voolley.com/account/login.php on line 85
+[10-Dec-2024 16:07:03 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/relianc1/test.voolley.com/account/login.php on line 85
+[10-Dec-2024 16:07:07 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/relianc1/test.voolley.com/account/login.php on line 85
+[10-Dec-2024 16:08:10 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/relianc1/test.voolley.com/account/login.php on line 85
+[10-Dec-2024 16:08:14 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/relianc1/test.voolley.com/account/login.php on line 85
+[10-Dec-2024 16:09:40 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/relianc1/test.voolley.com/account/login.php on line 85
+[10-Dec-2024 16:09:44 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/relianc1/test.voolley.com/account/login.php on line 85
+[10-Dec-2024 16:09:55 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/relianc1/test.voolley.com/account/login.php on line 85
+[10-Dec-2024 16:09:59 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/relianc1/test.voolley.com/account/login.php on line 85
+[10-Dec-2024 16:10:18 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/relianc1/test.voolley.com/account/login.php on line 88
+[10-Dec-2024 16:10:24 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/relianc1/test.voolley.com/account/login.php on line 88
+[10-Dec-2024 16:10:54 UTC] PHP Warning:  require_once(../frameworkng/db/config.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/account/login.php on line 16
+[10-Dec-2024 16:10:54 UTC] PHP Fatal error:  require_once(): Failed opening required '../frameworkng/db/config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/account/login.php on line 16
+[10-Dec-2024 16:10:55 UTC] PHP Warning:  require_once(../frameworkng/db/config.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/account/login.php on line 16
+[10-Dec-2024 16:10:55 UTC] PHP Fatal error:  require_once(): Failed opening required '../frameworkng/db/config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/account/login.php on line 16
+[10-Dec-2024 16:11:10 UTC] PHP Warning:  require_once(../frameworkng/db/config.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/account/login.php on line 16
+[10-Dec-2024 16:11:10 UTC] PHP Fatal error:  require_once(): Failed opening required '../frameworkng/db/config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/account/login.php on line 16
+[10-Dec-2024 16:11:11 UTC] PHP Warning:  require_once(../frameworkng/db/config.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/account/login.php on line 16
+[10-Dec-2024 16:11:11 UTC] PHP Fatal error:  require_once(): Failed opening required '../frameworkng/db/config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/account/login.php on line 16
+[10-Dec-2024 16:11:43 UTC] PHP Warning:  require_once(./account/config.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/account/login.php on line 16
+[10-Dec-2024 16:11:43 UTC] PHP Fatal error:  require_once(): Failed opening required './account/config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/account/login.php on line 16
+[10-Dec-2024 16:11:56 UTC] PHP Notice:  Undefined variable: conexion in /home/relianc1/test.voolley.com/account/login.php on line 44
+[10-Dec-2024 16:11:56 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/relianc1/test.voolley.com/account/login.php on line 44
+[10-Dec-2024 16:11:56 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/relianc1/test.voolley.com/account/login.php on line 88
+[10-Dec-2024 16:11:56 UTC] PHP Notice:  Undefined variable: conexion in /home/relianc1/test.voolley.com/account/login.php on line 92
+[10-Dec-2024 16:11:56 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/relianc1/test.voolley.com/account/login.php on line 92
+[10-Dec-2024 16:12:02 UTC] PHP Notice:  Undefined variable: conexion in /home/relianc1/test.voolley.com/account/login.php on line 44
+[10-Dec-2024 16:12:02 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/relianc1/test.voolley.com/account/login.php on line 44
+[10-Dec-2024 16:12:02 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/relianc1/test.voolley.com/account/login.php on line 88
+[10-Dec-2024 16:12:02 UTC] PHP Notice:  Undefined variable: conexion in /home/relianc1/test.voolley.com/account/login.php on line 92
+[10-Dec-2024 16:12:02 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/relianc1/test.voolley.com/account/login.php on line 92
+[10-Dec-2024 16:12:23 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/relianc1/test.voolley.com/account/login.php on line 88
+[10-Dec-2024 16:26:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 64
+[10-Dec-2024 16:29:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 64
+[10-Dec-2024 16:33:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[10-Dec-2024 16:34:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[10-Dec-2024 16:34:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[10-Dec-2024 17:59:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[10-Dec-2024 19:02:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[10-Dec-2024 22:02:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[11-Dec-2024 00:57:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[11-Dec-2024 15:03:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[11-Dec-2024 16:04:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[11-Dec-2024 16:07:14 UTC] PHP Notice:  Undefined index: username in /home/relianc1/test.voolley.com/account/save.php on line 3
+[11-Dec-2024 16:07:14 UTC] PHP Notice:  Undefined index: password in /home/relianc1/test.voolley.com/account/save.php on line 4
+[11-Dec-2024 16:07:14 UTC] PHP Notice:  Undefined index: tipo in /home/relianc1/test.voolley.com/account/save.php on line 5
+[11-Dec-2024 16:09:14 UTC] PHP Notice:  Undefined index: username in /home/relianc1/test.voolley.com/account/save.php on line 3
+[11-Dec-2024 16:09:14 UTC] PHP Notice:  Undefined index: password in /home/relianc1/test.voolley.com/account/save.php on line 4
+[11-Dec-2024 16:09:14 UTC] PHP Notice:  Undefined index: tipo in /home/relianc1/test.voolley.com/account/save.php on line 5
+[11-Dec-2024 16:11:21 UTC] PHP Notice:  Undefined index: username in /home/relianc1/test.voolley.com/account/save.php on line 3
+[11-Dec-2024 16:11:21 UTC] PHP Notice:  Undefined index: password in /home/relianc1/test.voolley.com/account/save.php on line 4
+[11-Dec-2024 16:11:21 UTC] PHP Notice:  Undefined index: tipo in /home/relianc1/test.voolley.com/account/save.php on line 5
+[11-Dec-2024 16:13:25 UTC] PHP Notice:  Undefined index: username in /home/relianc1/test.voolley.com/account/save.php on line 3
+[11-Dec-2024 16:13:25 UTC] PHP Notice:  Undefined index: password in /home/relianc1/test.voolley.com/account/save.php on line 4
+[11-Dec-2024 16:13:25 UTC] PHP Notice:  Undefined index: tipo in /home/relianc1/test.voolley.com/account/save.php on line 5
+[11-Dec-2024 16:17:24 UTC] PHP Notice:  Undefined index: username in /home/relianc1/test.voolley.com/account/save.php on line 3
+[11-Dec-2024 16:17:24 UTC] PHP Notice:  Undefined index: password in /home/relianc1/test.voolley.com/account/save.php on line 4
+[11-Dec-2024 16:17:24 UTC] PHP Notice:  Undefined index: tipo in /home/relianc1/test.voolley.com/account/save.php on line 5
+[11-Dec-2024 16:21:37 UTC] PHP Notice:  Undefined index: username in /home/relianc1/test.voolley.com/account/save.php on line 3
+[11-Dec-2024 16:21:37 UTC] PHP Notice:  Undefined index: password in /home/relianc1/test.voolley.com/account/save.php on line 4
+[11-Dec-2024 16:21:37 UTC] PHP Notice:  Undefined index: tipo in /home/relianc1/test.voolley.com/account/save.php on line 5
+[11-Dec-2024 16:25:45 UTC] PHP Notice:  Undefined index: username in /home/relianc1/test.voolley.com/account/save.php on line 3
+[11-Dec-2024 16:25:45 UTC] PHP Notice:  Undefined index: password in /home/relianc1/test.voolley.com/account/save.php on line 4
+[11-Dec-2024 16:25:45 UTC] PHP Notice:  Undefined index: tipo in /home/relianc1/test.voolley.com/account/save.php on line 5
+[11-Dec-2024 16:29:55 UTC] PHP Notice:  Undefined index: username in /home/relianc1/test.voolley.com/account/save.php on line 3
+[11-Dec-2024 16:29:55 UTC] PHP Notice:  Undefined index: password in /home/relianc1/test.voolley.com/account/save.php on line 4
+[11-Dec-2024 16:29:55 UTC] PHP Notice:  Undefined index: tipo in /home/relianc1/test.voolley.com/account/save.php on line 5
+[11-Dec-2024 17:35:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[11-Dec-2024 22:02:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[12-Dec-2024 14:09:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[12-Dec-2024 19:25:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[13-Dec-2024 17:14:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[13-Dec-2024 22:47:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[16-Dec-2024 16:54:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[17-Dec-2024 14:28:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[17-Dec-2024 15:09:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[18-Dec-2024 00:18:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[18-Dec-2024 15:24:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[18-Dec-2024 16:03:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[19-Dec-2024 16:07:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[19-Dec-2024 19:43:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[02-Jan-2025 23:17:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[03-Jan-2025 14:07:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[03-Jan-2025 19:22:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[03-Jan-2025 22:28:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[07-Jan-2025 14:12:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[07-Jan-2025 14:52:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[07-Jan-2025 18:48:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[07-Jan-2025 22:02:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[07-Jan-2025 23:54:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[08-Jan-2025 14:30:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[08-Jan-2025 19:01:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[08-Jan-2025 22:05:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[08-Jan-2025 23:16:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[09-Jan-2025 14:17:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[09-Jan-2025 15:03:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[09-Jan-2025 16:39:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[10-Jan-2025 01:07:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[10-Jan-2025 14:04:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[10-Jan-2025 15:23:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[10-Jan-2025 23:34:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[13-Jan-2025 17:39:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[13-Jan-2025 22:25:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[14-Jan-2025 14:13:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[14-Jan-2025 15:56:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[14-Jan-2025 19:34:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[14-Jan-2025 22:01:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[15-Jan-2025 14:17:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[15-Jan-2025 22:08:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[15-Jan-2025 23:56:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[16-Jan-2025 14:22:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[16-Jan-2025 18:37:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[16-Jan-2025 22:25:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[17-Jan-2025 14:09:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[17-Jan-2025 15:33:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[17-Jan-2025 17:39:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[17-Jan-2025 18:37:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[17-Jan-2025 22:18:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[17-Jan-2025 23:32:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/test.voolley.com/account/login.php on line 67
+[20-Jan-2025 15:12:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/voolley.com/cotizacion/account/login.php on line 67
+[20-Jan-2025 17:36:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/voolley.com/cotizacion/account/login.php on line 67
+[20-Jan-2025 19:26:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/voolley.com/cotizacion/account/login.php on line 67
+[20-Jan-2025 21:38:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/voolley.com/cotizacion/account/login.php on line 67
+[22-Jan-2025 14:15:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/voolley.com/cotizacion/account/login.php on line 67
+[22-Jan-2025 17:30:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/voolley.com/cotizacion/account/login.php on line 67
+[23-Jan-2025 14:32:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/voolley.com/cotizacion/account/login.php on line 67
+[24-Jan-2025 14:11:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/voolley.com/cotizacion/account/login.php on line 67
+[24-Jan-2025 15:06:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/voolley.com/cotizacion/account/login.php on line 67
+[24-Jan-2025 18:47:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/relianc1/voolley.com/cotizacion/account/login.php on line 67

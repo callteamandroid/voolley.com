@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <title>Gráfico de Latencia, Pérdida de Paquetes y Ataques IP</title>
+    <style>
+        .chart-container {
+            position: relative;
+            width: 100%;
+            height: 400px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container mt-5">
+    <h2>Gráfico de Latencia en Tiempo Real</h2>
+    <div class="chart-container">
+        <canvas id="latencyChart"></canvas>
+    </div>
+
+    <div class="mt-3">
+        <h4>Pérdida de Paquetes</h4>
+        <ul id="packetLossList"></ul>
+    </div>
+
+    <h2 class="mt-5">Ataques por IP</h2>
+    <div class="chart-container">
+        <canvas id="attackChart"></canvas>
+    </div>
+
+    <h4 class="mt-3">IPs Atacantes:</h4>
+    <ul id="attackIpsList"></ul>
+</div>
+
+<script>
+    const ctxLatency = document.getElementById('latencyChart').getContext('2d');
+    let latencyData = {
+        labels: [],
+        datasets: [
+            { label: '8.8.8.8 (Google)', data: [], borderColor: 'rgba(75, 192, 192, 1)', borderWidth: 1, fill: false },
+            { label: '45.239.77.103 (SLP)', data: [], borderColor: 'rgba(255, 99, 132, 1)', borderWidth: 1, fill: false },
+            { label: '200.57.12.18 (SLW)', data: [], borderColor: 'rgba(255, 206, 86, 1)', borderWidth: 1, fill: false },
+            { label: '201.163.89.186 (Gramol)', data: [], borderColor: 'rgba(153, 102, 255, 1)', borderWidth: 1, fill: false },
+            { label: '200.188.16.178 (Server)', data: [], borderColor: 'rgba(255, 159, 64, 1)', borderWidth: 1, fill: false }
+        ]
+    };
+
+    const latencyChart = new Chart(ctxLatency, {
+        type: 'line',
+        data: latencyData,
+        options: {
+            scales: {
+                x: { title: { display: true, text: 'Mediciones' } },
+                y: { beginAtZero: true, title: { display: true, text: 'Latencia (ms)' } }
+            },
+            responsive: true,
+            maintainAspectRatio: false
+        }
+    });
+
+    const ctxAttack = document.getElementById('attackChart').getContext('2d');
+    let attackData = {
+        labels: [],
+        datasets: [{
+            label: 'Ataques IPs',
+            data: [],
+            backgroundColor: 'rgba(255, 99, 132, 0.2)',
+            borderColor: 'rgba(255, 99, 132, 1)',
+            borderWidth: 1
+        }]
+    };
+
+    const attackChart = new Chart(ctxAttack, {
+        type: 'bar',
+        data: attackData,
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: {
+                x: { title: { display: true, text: 'IP' } },
+                y: { beginAtZero: true, title: { display: true, text: 'Cantidad de Intentos de Ataque' } }
+            }
+        }
+    });
+
+    function updateChart() {
+        fetch('2min.php?json=true')
+            .then(response => response.json())
+            .then(data => {
+                // Actualizar gráfica de latencia
+                const now = latencyData.labels.length;
+                latencyData.labels.push(now);
+                latencyData.datasets[0].data.push(data.latencies['8.8.8.8']?.slice(-1)[0] || 0);
+                latencyData.datasets[1].data.push(data.latencies['45.239.77.103']?.slice(-1)[0] || 0);
+                latencyData.datasets[2].data.push(data.latencies['200.57.12.18']?.slice(-1)[0] || 0);
+                latencyData.datasets[3].data.push(data.latencies['201.163.89.186']?.slice(-1)[0] || 0);
+                latencyData.datasets[4].data.push(data.latencies['200.188.16.178']?.slice(-1)[0] || 0);
+                latencyChart.update();
+
+                // Mostrar Pérdida de Paquetes
+                const packetLossList = document.getElementById('packetLossList');
+                packetLossList.innerHTML = '';
+                for (const host in data.packetLoss) {
+                    const li = document.createElement('li');
+                    li.textContent = `${host}: ${data.packetLoss[host]}`;
+                    packetLossList.appendChild(li);
+                }
+
+                // Actualizar gráfica de ataques
+                const attackIps = Object.keys(data.attacks);
+                const attackCounts = attackIps.map(ip => data.attacks[ip].count);
+
+                attackData.labels = attackIps;
+                attackData.datasets[0].data = attackCounts;
+                attackChart.update();
+
+                // Mostrar IPs atacantes y objetivos
+                const attackIpsList = document.getElementById('attackIpsList');
+                attackIpsList.innerHTML = '';
+                attackIps.forEach(ip => {
+                    const li = document.createElement('li');
+                    li.textContent = `${ip} está atacando a ${data.attacks[ip].target} con ${data.attacks[ip].count} intentos`;
+                    attackIpsList.appendChild(li);
+                });
+            })
+            .catch(error => console.error('Error al cargar los datos:', error));
+    }
+
+    // Actualizar cada 2 segundos
+    setInterval(updateChart, 2000);
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"></script>
+</body>
+</html>

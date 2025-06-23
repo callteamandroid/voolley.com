@@ -1,0 +1,96 @@
+[11-Dec-2024 16:55:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/relianc1/test.voolley.com/productos/savem.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/relianc1/test.voolley.com/productos/savem.php on line 40
+[11-Dec-2024 17:36:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/relianc1/test.voolley.com/productos/savem.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/relianc1/test.voolley.com/productos/savem.php on line 40
+[11-Dec-2024 18:05:41 UTC] PHP Warning:  include(./frameworkng/dashboard/dashboard.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/frameworkng/common.php on line 2
+[11-Dec-2024 18:05:42 UTC] PHP Warning:  include(./frameworkng/dashboard/dashboard.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/frameworkng/common.php on line 2
+[11-Dec-2024 18:05:42 UTC] PHP Warning:  include(): Failed opening './frameworkng/dashboard/dashboard.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/frameworkng/common.php on line 2
+[11-Dec-2024 18:05:42 UTC] PHP Warning:  include(./frameworkng/inputs/classinput.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/frameworkng/common.php on line 3
+[11-Dec-2024 18:05:42 UTC] PHP Warning:  include(./frameworkng/inputs/classinput.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/frameworkng/common.php on line 3
+[11-Dec-2024 18:05:42 UTC] PHP Warning:  include(): Failed opening './frameworkng/inputs/classinput.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/frameworkng/common.php on line 3
+[11-Dec-2024 18:05:42 UTC] PHP Warning:  include(./frameworkng/tablas/tablas.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/frameworkng/common.php on line 4
+[11-Dec-2024 18:05:42 UTC] PHP Warning:  include(./frameworkng/tablas/tablas.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/frameworkng/common.php on line 4
+[11-Dec-2024 18:05:42 UTC] PHP Warning:  include(): Failed opening './frameworkng/tablas/tablas.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/frameworkng/common.php on line 4
+[11-Dec-2024 18:05:42 UTC] PHP Warning:  include(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/frameworkng/common.php on line 5
+[11-Dec-2024 18:05:42 UTC] PHP Warning:  include(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/frameworkng/common.php on line 5
+[11-Dec-2024 18:05:42 UTC] PHP Warning:  include(): Failed opening './frameworkng/db/conexionmysql.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/frameworkng/common.php on line 5
+[11-Dec-2024 18:05:42 UTC] PHP Warning:  imagepng(archivos/comprimidas/modal usuarios.png): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/productos/savem.php on line 18
+[11-Dec-2024 18:05:42 UTC] PHP Notice:  Undefined variable: conexion in /home/relianc1/test.voolley.com/productos/savem.php on line 99
+[11-Dec-2024 18:05:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/relianc1/test.voolley.com/productos/savem.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/relianc1/test.voolley.com/productos/savem.php on line 99
+[11-Dec-2024 18:10:40 UTC] PHP Warning:  include(./frameworkng/dashboard/dashboard.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/frameworkng/common.php on line 2
+[11-Dec-2024 18:10:40 UTC] PHP Warning:  include(./frameworkng/dashboard/dashboard.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/frameworkng/common.php on line 2
+[11-Dec-2024 18:10:40 UTC] PHP Warning:  include(): Failed opening './frameworkng/dashboard/dashboard.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/frameworkng/common.php on line 2
+[11-Dec-2024 18:10:40 UTC] PHP Warning:  include(./frameworkng/inputs/classinput.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/frameworkng/common.php on line 3
+[11-Dec-2024 18:10:40 UTC] PHP Warning:  include(./frameworkng/inputs/classinput.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/frameworkng/common.php on line 3
+[11-Dec-2024 18:10:40 UTC] PHP Warning:  include(): Failed opening './frameworkng/inputs/classinput.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/frameworkng/common.php on line 3
+[11-Dec-2024 18:10:40 UTC] PHP Warning:  include(./frameworkng/tablas/tablas.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/frameworkng/common.php on line 4
+[11-Dec-2024 18:10:40 UTC] PHP Warning:  include(./frameworkng/tablas/tablas.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/frameworkng/common.php on line 4
+[11-Dec-2024 18:10:40 UTC] PHP Warning:  include(): Failed opening './frameworkng/tablas/tablas.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/frameworkng/common.php on line 4
+[11-Dec-2024 18:10:40 UTC] PHP Warning:  include(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/frameworkng/common.php on line 5
+[11-Dec-2024 18:10:40 UTC] PHP Warning:  include(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/frameworkng/common.php on line 5
+[11-Dec-2024 18:10:40 UTC] PHP Warning:  include(): Failed opening './frameworkng/db/conexionmysql.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/frameworkng/common.php on line 5
+[11-Dec-2024 18:10:40 UTC] PHP Warning:  imagepng(archivos/comprimidas/Screenshot_19.png): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/productos/savem.php on line 18
+[11-Dec-2024 18:10:40 UTC] PHP Notice:  Undefined variable: conexion in /home/relianc1/test.voolley.com/productos/savem.php on line 99
+[11-Dec-2024 18:10:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/relianc1/test.voolley.com/productos/savem.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/relianc1/test.voolley.com/productos/savem.php on line 99
+[11-Dec-2024 18:11:19 UTC] PHP Warning:  imagepng(archivos/comprimidas/Screenshot_19.png): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/productos/savem.php on line 18
+[14-Jan-2025 17:44:41 UTC] PHP Notice:  Undefined index: nombre in /home/relianc1/test.voolley.com/productos/savem.php on line 8
+[14-Jan-2025 17:44:41 UTC] PHP Notice:  Undefined index: descripcion in /home/relianc1/test.voolley.com/productos/savem.php on line 9
+[14-Jan-2025 17:44:41 UTC] PHP Notice:  Undefined index: codigo in /home/relianc1/test.voolley.com/productos/savem.php on line 10
+[14-Jan-2025 17:44:41 UTC] PHP Notice:  Undefined index: modelo in /home/relianc1/test.voolley.com/productos/savem.php on line 11
+[14-Jan-2025 17:44:41 UTC] PHP Notice:  Undefined index: parte in /home/relianc1/test.voolley.com/productos/savem.php on line 12
+[14-Jan-2025 17:44:41 UTC] PHP Notice:  Undefined index: unidad in /home/relianc1/test.voolley.com/productos/savem.php on line 13
+[14-Jan-2025 17:44:41 UTC] PHP Notice:  Undefined index: familia in /home/relianc1/test.voolley.com/productos/savem.php on line 14
+[14-Jan-2025 17:51:40 UTC] PHP Notice:  Undefined index: nombre in /home/relianc1/test.voolley.com/productos/savem.php on line 8
+[14-Jan-2025 17:51:40 UTC] PHP Notice:  Undefined index: descripcion in /home/relianc1/test.voolley.com/productos/savem.php on line 9
+[14-Jan-2025 17:51:40 UTC] PHP Notice:  Undefined index: codigo in /home/relianc1/test.voolley.com/productos/savem.php on line 10
+[14-Jan-2025 17:51:40 UTC] PHP Notice:  Undefined index: modelo in /home/relianc1/test.voolley.com/productos/savem.php on line 11
+[14-Jan-2025 17:51:40 UTC] PHP Notice:  Undefined index: parte in /home/relianc1/test.voolley.com/productos/savem.php on line 12
+[14-Jan-2025 17:51:40 UTC] PHP Notice:  Undefined index: unidad in /home/relianc1/test.voolley.com/productos/savem.php on line 13
+[14-Jan-2025 17:51:40 UTC] PHP Notice:  Undefined index: familia in /home/relianc1/test.voolley.com/productos/savem.php on line 14
+[14-Jan-2025 17:57:17 UTC] PHP Notice:  Undefined index: name in /home/relianc1/test.voolley.com/productos/savem.php on line 8
+[14-Jan-2025 17:57:17 UTC] PHP Notice:  Undefined index: descripcion in /home/relianc1/test.voolley.com/productos/savem.php on line 9
+[14-Jan-2025 17:57:17 UTC] PHP Notice:  Undefined index: codigo in /home/relianc1/test.voolley.com/productos/savem.php on line 10
+[14-Jan-2025 17:57:17 UTC] PHP Notice:  Undefined index: modelo in /home/relianc1/test.voolley.com/productos/savem.php on line 11
+[14-Jan-2025 17:57:17 UTC] PHP Notice:  Undefined index: parte in /home/relianc1/test.voolley.com/productos/savem.php on line 12
+[14-Jan-2025 17:57:17 UTC] PHP Notice:  Undefined index: unidad in /home/relianc1/test.voolley.com/productos/savem.php on line 13
+[14-Jan-2025 17:57:17 UTC] PHP Notice:  Undefined index: familia in /home/relianc1/test.voolley.com/productos/savem.php on line 14
+[14-Jan-2025 17:58:55 UTC] PHP Notice:  Undefined index: name in /home/relianc1/test.voolley.com/productos/savem.php on line 8
+[14-Jan-2025 17:58:55 UTC] PHP Notice:  Undefined index: descripcion in /home/relianc1/test.voolley.com/productos/savem.php on line 9
+[14-Jan-2025 17:58:55 UTC] PHP Notice:  Undefined index: codigo in /home/relianc1/test.voolley.com/productos/savem.php on line 10
+[14-Jan-2025 17:58:55 UTC] PHP Notice:  Undefined index: modelo in /home/relianc1/test.voolley.com/productos/savem.php on line 11
+[14-Jan-2025 17:58:55 UTC] PHP Notice:  Undefined index: parte in /home/relianc1/test.voolley.com/productos/savem.php on line 12
+[14-Jan-2025 17:58:55 UTC] PHP Notice:  Undefined index: unidad in /home/relianc1/test.voolley.com/productos/savem.php on line 13
+[14-Jan-2025 17:58:55 UTC] PHP Notice:  Undefined index: familia in /home/relianc1/test.voolley.com/productos/savem.php on line 14
+[14-Jan-2025 22:01:25 UTC] PHP Notice:  Undefined index: nombre in /home/relianc1/test.voolley.com/productos/savem.php on line 6
+[14-Jan-2025 22:01:25 UTC] PHP Notice:  Undefined index: familia in /home/relianc1/test.voolley.com/productos/savem.php on line 7
+[14-Jan-2025 22:01:25 UTC] PHP Notice:  Undefined index: codigo in /home/relianc1/test.voolley.com/productos/savem.php on line 8
+[14-Jan-2025 22:01:25 UTC] PHP Notice:  Undefined index: modelo in /home/relianc1/test.voolley.com/productos/savem.php on line 9
+[14-Jan-2025 22:01:25 UTC] PHP Notice:  Undefined index: parte in /home/relianc1/test.voolley.com/productos/savem.php on line 10
+[14-Jan-2025 22:01:25 UTC] PHP Notice:  Undefined index: unidad in /home/relianc1/test.voolley.com/productos/savem.php on line 11
+[14-Jan-2025 22:01:25 UTC] PHP Notice:  Undefined index: descripcion in /home/relianc1/test.voolley.com/productos/savem.php on line 12
+[15-Jan-2025 00:28:48 UTC] PHP Warning:  require(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/productos/ajax.php on line 2
+[15-Jan-2025 00:28:48 UTC] PHP Warning:  require(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/productos/ajax.php on line 2
+[15-Jan-2025 00:28:48 UTC] PHP Fatal error:  require(): Failed opening required './frameworkng/db/conexionmysql.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/productos/ajax.php on line 2
+[15-Jan-2025 00:30:56 UTC] PHP Warning:  require(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/productos/ajax.php on line 2
+[15-Jan-2025 00:30:56 UTC] PHP Warning:  require(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/productos/ajax.php on line 2
+[15-Jan-2025 00:30:56 UTC] PHP Fatal error:  require(): Failed opening required './frameworkng/db/conexionmysql.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/productos/ajax.php on line 2
+[15-Jan-2025 00:32:30 UTC] PHP Warning:  require(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/productos/ajax.php on line 2
+[15-Jan-2025 00:32:30 UTC] PHP Warning:  require(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/productos/ajax.php on line 2
+[15-Jan-2025 00:32:30 UTC] PHP Fatal error:  require(): Failed opening required './frameworkng/db/conexionmysql.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/productos/ajax.php on line 2
+[15-Jan-2025 00:47:19 UTC] PHP Warning:  require(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/productos/ajax.php on line 2
+[15-Jan-2025 00:47:19 UTC] PHP Warning:  require(./frameworkng/db/conexionmysql.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/productos/ajax.php on line 2
+[15-Jan-2025 00:47:19 UTC] PHP Fatal error:  require(): Failed opening required './frameworkng/db/conexionmysql.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/productos/ajax.php on line 2
+[15-Jan-2025 00:47:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/relianc1/test.voolley.com/productos/ajax.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/relianc1/test.voolley.com/productos/ajax.php on line 12

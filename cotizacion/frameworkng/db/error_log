@@ -1,0 +1,2 @@
+[09-Dec-2024 16:22:10 UTC] PHP Warning:  require_once(conexion.php): failed to open stream: No such file or directory in /home/relianc1/test.voolley.com/frameworkng/db/operaciones.php on line 3
+[09-Dec-2024 16:22:10 UTC] PHP Fatal error:  require_once(): Failed opening required 'conexion.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/relianc1/test.voolley.com/frameworkng/db/operaciones.php on line 3
